@@ -1,16 +1,14 @@
-### Hi there 👋
+# Profile Activity Generator
 
-<!--
-**fecym/fecym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Generate custom profile activity for your profile READMEs
 
-Here are some ideas to get you started:
+🚧 Work In Progress 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How To Use
+
+- Click on the squares to change the colors
+- Press Ctrl key and hover on the squares to change the colors
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png" />
+</div>
