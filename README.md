@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [docs](https://chengyuming.cn)
+- 🔭 I’m currently working on [docs](https://fecym.github.io/docs)
 
 - 🌱 I’m currently learning **node**
 
-- 📝 I regularly write articles on [https://chengyuming.cn](https://chengyuming.cn)
+- 📝 I regularly write articles on [https://fecym.github.io/docs](https://fecym.github.io/docs) 
 
 - 💬 Ask me about **vue、node、babel、webpack**
 
